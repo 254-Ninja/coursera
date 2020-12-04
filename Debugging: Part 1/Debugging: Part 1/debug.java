@@ -19,7 +19,7 @@ public class debug {
     }
 }
    public void test() {
-    //no code yet
+     findAbc("abcd");
 }
 
 }
